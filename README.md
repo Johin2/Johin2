@@ -54,7 +54,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Johin2/Johin2/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://raw.githubusercontent.com/Johin2/Johin2/main/snake.svg)
 
 ###
 
