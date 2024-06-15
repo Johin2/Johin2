@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Student interested in Artificial Intelligence. from  Maharashtra, India</h4>
+<h3 align="center">Student interested in Artificial Intelligence. from  Maharashtra, India</h4>
 
 ###
 
